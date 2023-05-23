@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name_text">Çağrı Orcan</string>
+    <string name="yellow_star">Yellow Star</string>
+
+    <string name="bio_cagri">Çağrı Orcan was born on September 4, 1998, in the Fatih district of Istanbul.
+        \n\nHis educational journey began at Bandırma Anadolu Öğretmen Lisesi,
+        \n\nwhere he graduated in 2016. Fueled by a full scholarship, Çağrı then pursued a degree in Management Information Systems at Beykent University,
+        \n\ngraduating with a notable 3.08 GPA.
+        \n\nÇağrı\'s proficiency in the field of technology is well-rounded, boasting medium-level knowledge in Kotlin, and a basic understanding of Java, HTML5, CSS3, and JavaScript.
+        \n\nThese skills have proven to be invaluable in his current role as an Android Developer at ebebek. His dedication was recognized during his participation in the Everest Journey Talent and Career program at ebebek,
+        \n\nwhere he took the first place in the first year. His earlier work experience also includes a six-month stint at the ebebek store in Bandırma.
+        \n\nIn his leisure time, Çağrı is an avid gamer, with a particular fondness for the FIFA series.
+        \n\nHis prowess in gaming was demonstrated when he secured first place in a FIFA tournament at his university.
+        \n\nAdditionally, he is a passionate fan of Beşiktaş.
+        \n\nLooking ahead, Çağrı aspires to become a Chief Technology Officer (CTO).
+        \n\nHis experiences have honed his dedication and focus, and with his ambition and professional abilities,
+        \n\nhe is poised to make significant strides towards his goal.</string>
+    <string name="what_is_your_nickname">Nickname</string>
+</resources>
